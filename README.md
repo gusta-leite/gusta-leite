@@ -10,7 +10,3 @@ Meu nome é Gustavo Leite, eu tento programar as vezes, eu tento.
 # 🌘 Meus stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gusta-leite&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gusta-leite&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=gusta-leite&icon=8&color=3)](https://visitcount.itsvg.in)
-
