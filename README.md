@@ -1,5 +1,5 @@
 # 🐮 Sobre mim:
-Meu nome é Gustavo Leite, sou designer de UI/UX, e eu tento programar as vezes, eu tento.
+Meu nome é Gustavo Leite, sou designer de UI/UX, focando agora em Front-end com GSAP.
 
 
 ## 🎧 Redes sociais:
