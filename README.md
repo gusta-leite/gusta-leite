@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width= 40%><img src="https://res.cloudinary.com/duaanfpet/image/upload/v1732495678/lego-gusta.png"></td>
+    <td width= 40%><img src="https://res.cloudinary.com/duaanfpet/image/upload/v1732494533/vojsb7k8qwbbfqwhih6q.png"></td>
     <td>
     
   
