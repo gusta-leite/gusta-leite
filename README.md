@@ -11,7 +11,7 @@
     🎮 pokemon tcg • cinema • retro gaming
 </pre>
 <br>
-<img src="https://raw.githubusercontent.com/gusta-leite/gusta-leite/master/assets/banner.png" height="40" />
+<img src="https://raw.githubusercontent.com/gusta-leite/gusta-leite/master/assets/banner gif.gif" width="25%" />
 <br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/gustaleite/)
